@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0 auto;
+}
+p,td{
+    font-weight:400;
+}
+strong{
+    font-weight:800;
+}
+.contact-outer .logo img{
+    width:70%;
+    height:100%;
+    object-fit: cover;
+}
+.contact-info p{
+    margin:0;
+}
+.table-bordered th{
+    background-color: #dfbf9f;
+}
+.table2-row1 th{
+    background-color: #ffffff;
+}
+tr{
+    text-align: center;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+    background-color: #dfbf9f;
+}
+.general{
+    border:1px solid black;
+}
+.general p{
+    padding-left:5px;
+}
+.general-outer{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footer-outer p{
+    margin:0;
+    font-size:14px;
+}
+.footer-outer{
+    margin-bottom:50px;
+}
+.cont-p{
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+.contact-outer{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.contact-outer .logo{
+    margin-top:10px;
+    margin-bottom: 78px;
+}
+.cont-row1{
+    margin-bottom:40px;
+}
+.table-bordered {
+    border: 1px solid white;
+}
